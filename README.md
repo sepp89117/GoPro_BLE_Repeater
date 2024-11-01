@@ -15,6 +15,9 @@ You need an ESP32 board, the Arduino IDE (I use version 2.3.3) with the ESP32 Bo
 - Now you can open the app to control the camera and control your camera via the repeater
 - You may need to pair the repeater with the app like a normal camera
 
+## Special Thanks
+Special thanks to h2zero for the great work with [NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) and the great support!
+
 ## Known Issues
 - Hero 5 Black cannot be paired with the Quick App via the repeater
 - The repeater does not repeat WiFi connection
