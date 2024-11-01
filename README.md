@@ -2,7 +2,7 @@
 Repeats BLE communication between GoPro app and GoPro camera with an ESP32 to bridge larger distances
 
 ## Features
-Works with both the GoPro Quick App and the GoEasyPro_Android app
+Works with both the GoPro Quick App and the [GoEasyPro_Android](https://github.com/sepp89117/GoEasyPro_Android) app
 
 ## Get started
 You need an ESP32 board, the Arduino IDE (I use version 2.3.3) with the ESP32 Boards package (I use version 3.0.7) and the [NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) lib from h2zero (I use version 1.4.2).
